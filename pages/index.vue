@@ -272,7 +272,7 @@
 .hero {
   flex: 4; /* Membagi area hero */
   position: relative;
-  background: url('/assets/image/tecknopark (1).jpeg') no-repeat center center/cover;
+  background: url('/assets/image/tp.jpeg') no-repeat center center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
