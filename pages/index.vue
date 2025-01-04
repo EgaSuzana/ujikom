@@ -125,6 +125,7 @@
             <ul>
               <li>Rps Pplg</li>
               <li>Gedung Pplg</li>
+              <li>Komputer</li>
             </ul>
           </div>
         </div>
